@@ -1,0 +1,8 @@
+<templateSet group="Go">
+  <template name="iferr" value="if err != nil {&#10;    return $RETURN$&#10;}" description="" toReformat="false" toShortenFQNames="true">
+    <variable name="RETURN" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="GO" value="true" />
+    </context>
+  </template>
+</templateSet>
