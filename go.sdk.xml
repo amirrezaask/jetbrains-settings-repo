@@ -3,6 +3,7 @@
     <sdk-url>
       <set>
         <option value="file:///usr/lib/go-1.16" />
+        <option value="file:///usr/local/go" />
       </set>
     </sdk-url>
   </component>
