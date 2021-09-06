@@ -3,6 +3,7 @@
     <extensionMap>
       <mapping pattern="filecsv" type="AUTO_DETECTED" />
       <mapping pattern="exported" type="AUTO_DETECTED" />
+      <mapping pattern="pass" type="AUTO_DETECTED" />
       <mapping pattern="jest.config" type="JSON" />
       <mapping pattern=".eslintrc" type="JSON" />
       <mapping pattern=".stylelintrc" type="JSON" />
