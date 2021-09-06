@@ -19,6 +19,7 @@
       <mapping pattern=".node-version" type="PLAIN_TEXT" />
       <mapping pattern=".eslintignore" type="PLAIN_TEXT" />
       <mapping pattern=".npmignore" type="PLAIN_TEXT" />
+      <mapping ext="tmpl" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
