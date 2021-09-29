@@ -4,6 +4,7 @@
       <set>
         <option value="file:///usr/lib/go-1.16" />
         <option value="file:///usr/local/go" />
+        <option value="file://C:/Program Files/Go" />
       </set>
     </sdk-url>
   </component>
