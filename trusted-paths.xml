@@ -1,0 +1,10 @@
+<application>
+  <component name="Trusted.Paths.Settings">
+    <option name="TRUSTED_PATHS">
+      <list>
+        <option value="$USER_HOME$/src/github.com/amirrezaask" />
+        <option value="$USER_HOME$/src/repos/personal" />
+      </list>
+    </option>
+  </component>
+</application>
