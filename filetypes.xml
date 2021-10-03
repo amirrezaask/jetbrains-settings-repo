@@ -4,6 +4,7 @@
       <mapping pattern="filecsv" type="AUTO_DETECTED" />
       <mapping pattern="exported" type="AUTO_DETECTED" />
       <mapping pattern="pass" type="AUTO_DETECTED" />
+      <mapping pattern=".env.example" type="PLAIN_TEXT" />
       <mapping pattern=".env" type="PLAIN_TEXT" />
       <mapping ext="tmpl" type="PLAIN_TEXT" />
       <removed_mapping ext="apk" approved="true" type="ARCHIVE" />
