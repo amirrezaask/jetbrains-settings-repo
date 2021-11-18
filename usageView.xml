@@ -1,5 +1,5 @@
 <application>
-  <component name="UsageFilteringRuleState">
-    <option value="com.intellij.usages.impl.rules.WriteAccessFilteringRule" />
+  <component name="UsageViewSettings">
+    <option name="PREVIEW_USAGES_SPLITTER_PROPORTIONS" value="0.44873342" />
   </component>
 </application>

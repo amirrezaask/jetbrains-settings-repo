@@ -1,6 +1,0 @@
-<keymap version="1" name="Emacs copy" parent="Emacs">
-  <action id="GotoCustomRegion" />
-  <action id="GotoImplementation">
-    <keyboard-shortcut first-keystroke="ctrl alt period" />
-  </action>
-</keymap>
