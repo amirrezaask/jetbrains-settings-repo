@@ -1,0 +1,6 @@
+<application>
+  <component name="UISettings">
+    <option name="SHOW_INPLACE_COMMENTS" value="true" />
+    <option name="showTreeIndentGuides" value="true" />
+  </component>
+</application>

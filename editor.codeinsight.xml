@@ -1,0 +1,6 @@
+<application>
+  <component name="Go">
+    <option name="convertJsonOnPaste" value="NO" />
+    <option name="showDocumentationInParameterPopup" value="true" />
+  </component>
+</application>
