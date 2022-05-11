@@ -94,5 +94,12 @@
   <component name="XDebuggerSettings">
     <data-views />
     <general />
+    <debuggers>
+      <debugger id="Rust">
+        <configuration>
+          <option name="lldbPath" value="$USER_HOME$/Library/Caches/JetBrains/IntelliJIdea2022.1/intellij-rust/lldb" />
+        </configuration>
+      </debugger>
+    </debuggers>
   </component>
 </application>
